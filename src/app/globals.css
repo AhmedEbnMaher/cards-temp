@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+:root {
+
+  --header-background: rgba(227, 4, 4, 0.97);
+}
+
